@@ -1,6 +1,5 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=NguyenTiePhat&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Welcome%20to%20my%20GitHub&descAlignY=58&descSize=20" width="100%" alt="header" />
-<h3><i>Lập trình viên đam mê công nghệ • Luôn học hỏi mỗi ngày</i></h3>
 <img src="https://komarev.com/ghpvc/?username=NguyenTiePhat&style=for-the-badge&color=blueviolet&label=LUOT+XEM" alt="views" />
 <img src="https://img.shields.io/github/followers/NguyenTiePhat?style=for-the-badge&logo=github&color=181717" alt="followers" />
 </div>
